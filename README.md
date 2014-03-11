@@ -1,8 +1,11 @@
 Instructions
 ============
+Instructions for setting up th EHi test session on the University of Kent computers.
 
-1) Click on the "Download ZIP" button on the right, and save the zip file onto your Desktop (or any other location on your local drive)
+* Click on the "Download ZIP" button on the right, and save the zip file onto your Desktop (or any other location on your local drive)
 
-2) Double-click on the Test-master.zip file.
+* Double-click on the Test-master.zip file (you do not have to extract the Test-master folder).
 
-3) Open the ehi_set_up.html file by double-clicking on the file ehi_set_up.html
+* Double-click on the Test-master directory.
+
+* Open the ehi_set_up.html file by double-clicking on the file ehi_set_up.html
